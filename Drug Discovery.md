@@ -15,7 +15,9 @@ Excretion refers to how the body eliminates an unchanged drug or its metabolites
 <!--[if supportFields]><span style='mso-element:field-begin'></span><span
 style='mso-spacerun:yes'> </span>ADDIN ZOTERO_BIBL
 {&quot;uncited&quot;:[],&quot;omitted&quot;:[],&quot;custom&quot;:[]}
-CSL_BIBLIOGRAPHY <span style='mso-element:field-separator'></span><![endif]-->Berg, Jeremy M., John L. Tymoczko, Gregory J. Gatto, and Lubert Stryer, eds. _Biochemistry_. 8. ed. New York, NY: W\.H. Freeman/Macmillan, 2015.
+CSL_BIBLIOGRAPHY <span style='mso-element:field-separator'></span><![endif]-->
+References:
+Berg, Jeremy M., John L. Tymoczko, Gregory J. Gatto, and Lubert Stryer, eds. _Biochemistry_. 8. ed. New York, NY: W\.H. Freeman/Macmillan, 2015.
 
 Rang, H. P., M. Maureen Dale, James Ritter, R. J. Flower, and G. Henderson. _Rang and Dale’s Pharmacology_. Seventh edition. Edinburgh: Elsevier/Churchill Livingstone, 2012.
 
