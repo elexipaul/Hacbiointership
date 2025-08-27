@@ -117,9 +117,9 @@ _conda install -c conda-forge pyfiglet_
 \
 **6 to 13 Installing tools using bioconda channel:
 
-**Configuring channels:””_
-'''
-**conda config --add channels defaults__conda config --add channels bioconda__conda config --add channels conda-forge__”””_Installing multiple tools :  **conda install -c bioconda bwa blast samtools bedtools spades bcftools fastp multiqc''' **
+**Configuring channels:
+
+_**  '''conda config --add channels defaults__conda config --add channels bioconda__conda config --add channels conda-forge__”””_Installing multiple tools :  **conda install -c bioconda bwa blast samtools bedtools spades bcftools fastp multiqc''' **
 =========================================================================================================================================================================================================================================================================================================================
 
 ###
