@@ -1,3 +1,4 @@
+```
 #!/bin/bash
 # Pranjal's HackBio Script
 sudo apt update && sudo apt upgrade -y && sudo snap refresh
@@ -31,7 +32,7 @@ mkdir -p biocomputing && cd biocomputing
  clear && history
  ls 
  cd ../Pranjal && ls
-
+```
 
 
 
